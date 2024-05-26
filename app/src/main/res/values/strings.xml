@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">RecipeApp</string>
+    <string name="api_key">a2a5462072e64c8285f84a5cadb79465</string>
+    <string name="dish_name">Dish Name</string>
+    <string name="_2_persons">2 Persons</string>
+    <string name="like">Likes</string>
+    <string name="time">Mins</string>
+    <string name="meal_dea">Meal !dea</string>
+
+
+    <string-array name="tags">
+        <item>Main course</item>
+        <item>Side dish</item>
+        <item>Dessert</item>
+        <item>Appetizer</item>
+        <item>Salad</item>
+        <item>Bread</item>
+        <item>Breakfast</item>
+        <item>Soup</item>
+        <item>Beverage</item>
+        <item>Sauce</item>
+        <item>Marinade</item>
+        <item>Finger food</item>
+        <item>Snack</item>
+        <item>Drink</item>
+
+
+    </string-array>
+</resources>
